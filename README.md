@@ -1,14 +1,19 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:E2E8F0,100:CBD5E1&height=220&text=Aditya%20Bhadauriya&fontColor=0F172A&fontSize=48&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20DevOps%20|%20Platform%20Engineering&descColor=475569&descAlignY=55"/>
+</p>
+
+
 <div align="center">
 
-# Aditya Bhadauriya
-
-### Software Engineer | DevOps | Kubernetes | AWS | Platform Engineering
+### Linux | Docker | Kubernetes | AWS | CI/CD | Python
 
 Building reliable infrastructure, automating deployments, and designing scalable cloud-native systems.
 
 </div>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:334155,100:475569"/>
+</p>
 
 # About Me
 
@@ -18,7 +23,9 @@ My expertise is centered around **Kubernetes, Docker, Linux, CI/CD, AWS, Terrafo
 
 I'm continuously expanding my knowledge in **Platform Engineering**, **Distributed Systems**, **Infrastructure as Code**, **Cloud Architecture**, and **Observability**, while building production-oriented projects that reflect real-world engineering practices.
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:334155,100:475569"/>
+</p>
 
 # Core Expertise
 
@@ -33,177 +40,87 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 - Python Automation
 - Production Deployments
 
----
-
-# Tech Stack
-
-## ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws"/>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:334155,100:475569"/>
 </p>
 
----
-
-## ☸️ Container Orchestration
-
-<p>
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-</p>
-
----
-
-## 🐳 Containers
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker"/>
-</p>
-
----
-
-## ⚙️ CI/CD
-
-<p>
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions"/>
-</p>
-
----
-
-## 🏗 Infrastructure as Code
-
-<p>
-<img src="https://skillicons.dev/icons?i=terraform"/>
-</p>
-
----
-
-## 📊 Monitoring & Observability
-
-<p>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
-
-</p>
-
----
-
-## 🔐 DevSecOps
-
-<p>
-
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
-
-</p>
-
----
-
-## 💻 Programming & Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash"/>
-</p>
-
----
-
-## 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
-
----
-
-## 🛠 Operating System & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman"/>
-</p>
-
----
-
-# Featured Projects
-
-## 🚀 Kubernetes Production Platform
-
-Production-ready Kubernetes deployment with rolling updates, health checks, ingress, autoscaling, secrets management, and monitoring.
-
----
-
-## 🚀 Enterprise CI/CD Pipeline
-
-Jenkins pipeline integrating:
-
-- Unit Testing
-- Ruff
-- SonarQube
-- Trivy
-- Docker Build
-- Docker Registry
-- Kubernetes Deployment
-
----
-
-## 🚀 Infrastructure as Code
-
-Provisioning cloud infrastructure using Terraform with reusable modules and automated deployments.
-
----
-
-## 🚀 Observability Stack
-
-Production monitoring stack using:
-
-- Prometheus
-- Grafana
-- OpenTelemetry
-
-including dashboards, metrics collection, alerting, and application monitoring.
-
----
-
-## 🚀 Performance Engineering
-
-Optimizing enterprise testing pipelines by reducing execution time from **6 hours to nearly 1 hour** through test parallelization, containerized execution, and isolated database strategies.
-
----
-
-# Engineering Principles
-
-- Automate repetitive operations.
-- Infrastructure should be reproducible.
-- Reliability is a feature.
-- Observability is mandatory.
-- Prefer simple, maintainable solutions.
-- Design for failure and recovery.
-- Continuously improve deployment workflows.
-
----
-
-# GitHub Statistics
 
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=80&section=header&text=Tech%20Stack&fontColor=ffffff&fontSize=32"/>
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mp-30&show_icons=true&hide_border=true"/>
 
+
+<div align="center">
+
+  ### 🚀 DevOps & Cloud
+  
+  <p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux"/>
+  </p>
+  
+  <p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+  <!-- <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/> -->
+  </p>
+  
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:334155,100:475569"/>
+</p>
+  
+  ### 💻 Software Engineering
+  
+  <p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,bash"/>
+  </p>
+  
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:334155,100:475569"/>
+</p>
+  
+  ### 🛠 Tools
+  
+  <p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm"/>
+  </p>
+
+</div>
+
+---
+
+<!-- <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:334155&height=90&section=header&text=GitHub%20Statistics&fontColor=ffffff&fontSize=32"/>
+</p> -->
+
+<div align="center">
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=80&section=header&text=GitHub%20Activity&fontColor=ffffff&fontSize=32"/>
+</p>
+
+<p align="center">
+<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mp-30&show_icons=true&hide_border=true"/> -->
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mp-30&hide_border=true"/>
-
 </p>
 
-<p align="center">
-
+<!-- <p align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mp-30&layout=compact&hide_border=true"/>
-
-</p>
+</p> -->
 
 ---
 
-# Connect
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=80&section=header&text=Let's%20Connect&fontColor=ffffff&fontSize=32"/>
+</p>
 
 <p>
 
@@ -225,7 +142,9 @@ Optimizing enterprise testing pipelines by reducing execution time from **6 hour
 
 </p>
 
-
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:0D1117,35:58A6FF,65:58A6FF,100:0D1117"/>
+</p>
 
 <!--
 **MP-30/MP-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
