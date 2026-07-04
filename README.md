@@ -46,7 +46,7 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=80&section=header&text=Tech%20Stack&fontColor=ffffff&fontSize=32"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=60&section=header&text=Tech%20Stack&fontColor=ffffff&fontSize=28"/>
 </p>
 
 
@@ -72,7 +72,7 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
   </p>
   
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:334155,100:475569"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:334155,100:475569"/>
 </p>
   
   ### 💻 Software Engineering
@@ -82,7 +82,7 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
   </p>
   
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:334155,100:475569"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:334155,100:475569"/>
 </p>
   
   ### 🛠 Tools
@@ -103,7 +103,7 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=80&section=header&text=GitHub%20Activity&fontColor=ffffff&fontSize=32"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=60&section=header&text=GitHub%20Activity&fontColor=ffffff&fontSize=28"/>
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=80&section=header&text=Let's%20Connect&fontColor=ffffff&fontSize=32"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=60&section=header&text=Let's%20Connect&fontColor=ffffff&fontSize=28"/>
 </p>
 
 <p>
@@ -142,10 +142,9 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 
 </p>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:0D1117,35:58A6FF,65:58A6FF,100:0D1117"/>
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Wave"/>
+</div>
 <!--
 **MP-30/MP-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
