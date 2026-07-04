@@ -1,93 +1,51 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Aditya+Bhadauriya+%F0%9F%91%8B;Python+Backend+Engineer;FastAPI+%7C+Django+%7C+DevOps;Building+Scalable+Backend+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Aditya+Bhadauriya+%F0%9F%91%8B;Software+Engineer;DevOps+%7C+FastAPI+%7C+Python;Building+Scalable+Systems" />
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=blue-samarth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
 # 👨‍💻 About Me
 
-I'm **Aditya Bhadauriya**, a Python Backend Engineer with around **3+ years of experience** building scalable backend applications and REST APIs.
+I'm **Aditya Bhadauriya**, a Software Engineer with around **3+ years of experience** building scalable applications.
 
-My primary expertise is in **FastAPI**, **Django**, **Django REST Framework**, **PostgreSQL**, **SQLAlchemy**, and **Microservices**.
+My primary expertise is in **Kubernetes**, **Docker**, **Linux**, **CI/CD**, **AWS**, **Python** , **FastAPI**.
 
-Recently I've been expanding into **DevOps**, working with Docker, Kubernetes, Jenkins, AWS, Oracle Cloud, Prometheus, Grafana, and production deployments.
+I enjoy solving architecture problems, improving application performance, automating deployments, and building reliable systems.
 
-I enjoy solving backend architecture problems, improving application performance, automating deployments, and building reliable systems.
 
-# 🚀 Currently Working On
+## <div align="center"> Tech Stack & Arsenal</div>
 
-- Production-ready FastAPI Backend
-- Kubernetes & DevOps Projects
-- CI/CD using Jenkins
-- Python Logging Framework
-- AI-powered GRC Control Analyzer
-- Performance Optimization
-- System Design
-- LeetCode & DSA
-Backend
---------
-Python
-FastAPI
-Django
-DRF
-Flask
+### <div align="center"> Languages</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash" alt="Languages" />
+</div>
 
-Database
----------
-PostgreSQL
-MySQL
-Oracle
-Redis
+### <div align="center"> DevOps & Cloud</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux, githubactions, jenkins,github, prometheus, grafana" alt="DevOps & Cloud" />
+</div>
 
-Cloud
-------
-AWS
-Oracle Cloud
+### <div align="center">Backend</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi, frappe, django" alt="Backend" />
+</div>
 
-DevOps
--------
-Docker
-Kubernetes
-Jenkins
-GitHub Actions
-Terraform
-Prometheus
-Grafana
+### <div align="center"> Databases & Storage</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" alt="Databases" />
+</div>
 
-Testing
---------
-Pytest
-Unit Testing
-Integration Testing
+### <div align="center"> Tools & IDEs</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,postman,ubuntu" alt="Tools & IDEs" />
+</div>
 
-Messaging
-----------
-RabbitMQ
-Kafka (Learning)
 
-AI
----
-OpenAI
-LangChain
-LLM Applications
 
-Tools
-------
-Linux
-Git
-Postman
-VS Code
-
-# 🎯 2026 Goals
-
-✔ Build Production FastAPI Projects
-
-✔ Master Kubernetes
-
-✔ Become Expert in Backend Architecture
-
-✔ Crack 25-30 LPA Product-Based Company
-
-✔ Reach Specialist on Codeforces
-
-✔ Build Open Source Python Libraries
 <!--
 **MP-30/MP-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
