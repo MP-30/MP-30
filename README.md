@@ -1,48 +1,229 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Aditya+Bhadauriya+%F0%9F%91%8B;Software+Engineer;DevOps+%7C+FastAPI+%7C+Python;Building+Scalable+Systems" />
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=blue-samarth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
 
-# 👨‍💻 About Me
+# Aditya Bhadauriya
 
-I'm **Aditya Bhadauriya**, a Software Engineer with around **3+ years of experience** building scalable applications.
+### Software Engineer | DevOps | Kubernetes | AWS | Platform Engineering
 
-My primary expertise is in **Kubernetes**, **Docker**, **Linux**, **CI/CD**, **AWS**, **Python** , **FastAPI**.
+Building reliable infrastructure, automating deployments, and designing scalable cloud-native systems.
 
-I enjoy solving architecture problems, improving application performance, automating deployments, and building reliable systems.
-
-
-## <div align="center"> Tech Stack & Arsenal</div>
-
-### <div align="center"> Languages</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash" alt="Languages" />
 </div>
 
-### <div align="center"> DevOps & Cloud</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux, githubactions, jenkins,github, prometheus, grafana" alt="DevOps & Cloud" />
-</div>
+---
 
-### <div align="center">Backend</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi, frappe, django" alt="Backend" />
-</div>
+# About Me
 
-### <div align="center"> Databases & Storage</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" alt="Databases" />
-</div>
+I'm **Aditya Bhadauriya**, a Software Engineer with **3+ years of professional experience** building and operating scalable, reliable, and production-ready applications.
 
-### <div align="center"> Tools & IDEs</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,postman,ubuntu" alt="Tools & IDEs" />
-</div>
+My expertise is centered around **Kubernetes, Docker, Linux, CI/CD, AWS, Terraform, Observability, and Python automation**. I enjoy designing deployment platforms, automating operational workflows, improving infrastructure reliability, and solving engineering challenges across modern cloud-native environments.
+
+I'm continuously expanding my knowledge in **Platform Engineering**, **Distributed Systems**, **Infrastructure as Code**, **Cloud Architecture**, and **Observability**, while building production-oriented projects that reflect real-world engineering practices.
+
+---
+
+# Core Expertise
+
+- Kubernetes & Container Orchestration
+- Docker & Containerization
+- CI/CD Pipelines (Jenkins & GitHub Actions)
+- AWS Cloud Infrastructure
+- Infrastructure as Code (Terraform)
+- Monitoring & Observability
+- DevSecOps
+- Linux System Administration
+- Python Automation
+- Production Deployments
+
+---
+
+# Tech Stack
+
+## ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+</p>
+
+---
+
+## ☸️ Container Orchestration
+
+<p>
+<img src="https://skillicons.dev/icons?i=kubernetes"/>
+</p>
+
+---
+
+## 🐳 Containers
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker"/>
+</p>
+
+---
+
+## ⚙️ CI/CD
+
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions"/>
+</p>
+
+---
+
+## 🏗 Infrastructure as Code
+
+<p>
+<img src="https://skillicons.dev/icons?i=terraform"/>
+</p>
+
+---
+
+## 📊 Monitoring & Observability
+
+<p>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+
+</p>
+
+---
+
+## 🔐 DevSecOps
+
+<p>
+
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 💻 Programming & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash"/>
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+---
+
+## 🛠 Operating System & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman"/>
+</p>
+
+---
+
+# Featured Projects
+
+## 🚀 Kubernetes Production Platform
+
+Production-ready Kubernetes deployment with rolling updates, health checks, ingress, autoscaling, secrets management, and monitoring.
+
+---
+
+## 🚀 Enterprise CI/CD Pipeline
+
+Jenkins pipeline integrating:
+
+- Unit Testing
+- Ruff
+- SonarQube
+- Trivy
+- Docker Build
+- Docker Registry
+- Kubernetes Deployment
+
+---
+
+## 🚀 Infrastructure as Code
+
+Provisioning cloud infrastructure using Terraform with reusable modules and automated deployments.
+
+---
+
+## 🚀 Observability Stack
+
+Production monitoring stack using:
+
+- Prometheus
+- Grafana
+- OpenTelemetry
+
+including dashboards, metrics collection, alerting, and application monitoring.
+
+---
+
+## 🚀 Performance Engineering
+
+Optimizing enterprise testing pipelines by reducing execution time from **6 hours to nearly 1 hour** through test parallelization, containerized execution, and isolated database strategies.
+
+---
+
+# Engineering Principles
+
+- Automate repetitive operations.
+- Infrastructure should be reproducible.
+- Reliability is a feature.
+- Observability is mandatory.
+- Prefer simple, maintainable solutions.
+- Design for failure and recovery.
+- Continuously improve deployment workflows.
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mp-30&show_icons=true&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mp-30&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mp-30&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect
+
+<p>
+
+<a href="https://github.com/mp-30">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-bhadauriya-99bb8a86/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:adityabhadauriya93@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/mp-30">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
 
 
 
