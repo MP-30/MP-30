@@ -1,3 +1,7 @@
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mp-30&theme=github-dark&hide_border=true&bg_color=0d1a00&color=cc0000&line=336600&point=CBD5E1" />
+</p> -->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:E2E8F0,100:CBD5E1&height=220&text=Aditya%20Bhadauriya&fontColor=0F172A&fontSize=48&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20DevOps%20|%20Platform%20Engineering&descColor=475569&descAlignY=55"/>
 </p>
@@ -15,6 +19,9 @@ Building reliable infrastructure, automating deployments, and designing scalable
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:334155,100:475569"/>
 </p>
 
+
+
+
 # About Me
 
 I'm **Aditya Bhadauriya**, a Software Engineer with **3+ years of professional experience** building and operating scalable, reliable, and production-ready applications.
@@ -22,6 +29,20 @@ I'm **Aditya Bhadauriya**, a Software Engineer with **3+ years of professional e
 My expertise is centered around **Kubernetes, Docker, Linux, CI/CD, AWS, Terraform, Observability, and Python automation**. I enjoy designing deployment platforms, automating operational workflows, improving infrastructure reliability, and solving engineering challenges across modern cloud-native environments.
 
 I'm continuously expanding my knowledge in **Platform Engineering**, **Distributed Systems**, **Infrastructure as Code**, **Cloud Architecture**, and **Observability**, while building production-oriented projects that reflect real-world engineering practices.
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mp-30&theme=monokai" />
+</p> -->
+
+<p align="center">
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mp-30&theme=monokai"/>
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mp-30&theme=monokai"/>
+</p>
+
+<p align="center">
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mp-30&theme=monokai"/>
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mp-30&theme=monokai&utcOffset=5.5"/>
+</p>
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:334155,100:475569"/>
