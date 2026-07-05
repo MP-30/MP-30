@@ -1,13 +1,28 @@
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mp-30&theme=github-dark&hide_border=true&bg_color=0d1a00&color=cc0000&line=336600&point=CBD5E1" />
 </p> -->
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:E2E8F0,100:CBD5E1&height=220&text=Aditya%20Bhadauriya&fontColor=0F172A&fontSize=48&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20DevOps%20|%20Platform%20Engineering&descColor=475569&descAlignY=55"/>
 </p>
 
 
 <div align="center">
+
+<p align="center">
+
+<a href="https://adityalive.tech/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
+</a>
+
+<a href="mailto:adityabhadauriya93@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-bhadauriya-99bb8a86/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ### Linux | Docker | Kubernetes | AWS | CI/CD | Python
 
@@ -43,6 +58,26 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mp-30&theme=monokai"/>
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mp-30&theme=monokai&utcOffset=5.5"/>
 </p>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+
+<a href="https://github.com/mp-30/hyper-scale-ops">
+<img src="https://img.shields.io/badge/☸️_Hyper_Scale_Ops-Platform_Engineering-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
+</a>
+
+<a href="https://github.com/mp-30/spring_boot_devops">
+<img src="https://img.shields.io/badge/⚙️_Enterprise_CI/CD-Production_Pipeline-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
+</a>
+
+<a href="https://github.com/mp-30">
+<img src="https://img.shields.io/badge/📊_Observability-Coming_Soon-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
+</a>
+
+</p>
+
+
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:334155,100:475569"/>
@@ -120,7 +155,7 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:334155&height=90&section=header&text=GitHub%20Statistics&fontColor=ffffff&fontSize=32"/>
 </p> -->
 
-<div align="center">
+
 
 
 <p align="center">
@@ -128,8 +163,7 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 </p>
 
 <p align="center">
-<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mp-30&show_icons=true&hide_border=true"/> -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mp-30&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mp-30&theme=monokai&hide_border=true"/>
 </p>
 
 <!-- <p align="center">
@@ -139,14 +173,23 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 ---
 
 
+
+
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=60&section=header&text=Let's%20Connect&fontColor=ffffff&fontSize=28"/>
 </p>
 
 <p>
 
+<p align="center">
+
+<a href="https://adityalive.tech/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
+</a>
+
 <a href="https://github.com/mp-30">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aditya-bhadauriya-99bb8a86/">
