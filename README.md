@@ -1,6 +1,11 @@
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mp-30&theme=github-dark&hide_border=true&bg_color=0d1a00&color=cc0000&line=336600&point=CBD5E1" />
 </p> -->
+
+<!-- <p align="center">
+  <img src="https://github.com/mp-30/website/actions/workflows/ci.yml/badge.svg" />
+</p> -->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:E2E8F0,100:CBD5E1&height=220&text=Aditya%20Bhadauriya&fontColor=0F172A&fontSize=48&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20DevOps%20|%20Platform%20Engineering&descColor=475569&descAlignY=55"/>
 </p>
