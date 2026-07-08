@@ -167,8 +167,12 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:21262D&height=60&section=header&text=GitHub%20Activity&fontColor=ffffff&fontSize=28"/>
 </p>
 
+
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mp-30&theme=monokai&hide_border=true"/>
+  <img
+    width="48%"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=MP-30&theme=monokai&hide_border=true"
+  />
 </p>
 
 <!-- <p align="center">
