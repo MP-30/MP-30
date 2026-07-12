@@ -86,7 +86,7 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 
 <p align="center">
 
-<a href="YOUR_HEROKU_URL">
+<a href="https://hyper-scale-ops-dev-218cc42920d8.herokuapp.com/">
     <img src="https://img.shields.io/badge/🚀-Live%20Application-430098?style=for-the-badge" />
 </a>
 
