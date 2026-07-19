@@ -73,15 +73,15 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 <p align="center">
 
 <a href="https://github.com/mp-30/hyper-scale-ops">
-<img src="https://img.shields.io/badge/☸️_Hyper_Scale_Ops-Platform_Engineering-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
+<img src="https://img.shields.io/badge/☸️_Hyper_Scale_Ops-Software_Engineering-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
+</a>
+
+<a href="https://github.com/MP-30/hyper-scale-ops-k8s">
+<img src="https://img.shields.io/badge/📊_Hyper_Scale_Ops's-Helm_Repo-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
 </a>
 
 <a href="https://github.com/mp-30/spring_boot_devops">
 <img src="https://img.shields.io/badge/⚙️_Enterprise_CI/CD-Production_Pipeline-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
-</a>
-
-<a href="https://github.com/mp-30">
-<img src="https://img.shields.io/badge/📊_Observability-Coming_Soon-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
 </a>
 
 </p>
