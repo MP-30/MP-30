@@ -6,6 +6,10 @@
   <img src="https://github.com/mp-30/website/actions/workflows/ci.yml/badge.svg" />
 </p> -->
 
+
+
+
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:E2E8F0,100:CBD5E1&height=220&text=Aditya%20Bhadauriya&fontColor=0F172A&fontSize=48&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20DevOps%20|%20Platform%20Engineering&descColor=475569&descAlignY=55"/>
 </p>
@@ -67,6 +71,12 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mp-30&theme=monokai"/>
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mp-30&theme=monokai&utcOffset=5.5"/>
 </p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MP-30&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
 
 <h2 align="center">🚀 Featured Projects</h2>
 
