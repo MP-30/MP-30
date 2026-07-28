@@ -90,8 +90,8 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 <img src="https://img.shields.io/badge/📊_Hyper_Scale_Ops's-Helm_Repo-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
 </a>
 
-<a href="https://github.com/mp-30/spring_boot_devops">
-<img src="https://img.shields.io/badge/⚙️_Enterprise_CI/CD-Production_Pipeline-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
+<a href="https://github.com/MP-30/AI-assisted-Linux-debugging">
+<img src="https://img.shields.io/badge/⚙️_AI_assisted-Linux_debugging-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
 </a>
 
 </p>
