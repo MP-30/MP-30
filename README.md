@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://adityalive.tech/assets/resume_f.pdf">
+<a href="https://adityalive.tech/assets/resume.pdf">
 <img src="https://img.shields.io/badge/Resume-F8FAFC?style=for-the-badge&labelColor=0F172A&color=E2E8F0"/>
 </a>
 
