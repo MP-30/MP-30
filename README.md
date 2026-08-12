@@ -63,8 +63,8 @@ I'm continuously expanding my knowledge in **Platform Engineering**, **Distribut
 </p> -->
 
 <p align="center">
-  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mp-30&theme=monokai"/>
-  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mp-30&theme=monokai"/>
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mp-30&theme=monokai&exclude=HTML,CSS"/>
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mp-30&theme=monokai&exclude=HTML,CSS"/>
 </p>
 
 <p align="center">
