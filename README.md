@@ -50,7 +50,7 @@ Building reliable infrastructure, automating deployments, and designing scalable
 
 
 
-# About Myself
+# About Me
 
 I'm **Aditya Bhadauriya**, a Software Engineer with **3+ years of professional experience** building and operating scalable, reliable, and production-ready applications.
 
