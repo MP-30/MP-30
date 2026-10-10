@@ -37,7 +37,7 @@
 
 </p>
 
-### Linux | Docker | Kubernetes | AWS | CI/CD | Python
+### Linux | Docker | Kubernetes | AWS | CI/CD | Python | Terraform
 
 Building reliable infrastructure, automating deployments, and designing scalable cloud-native systems.
 
