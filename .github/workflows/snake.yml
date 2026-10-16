@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -15,7 +15,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
+      - uses: actions/checkout@v7
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 5.5
+          EXCLUDE: HTML,CSS
+          AUTO_PUSH: false
+
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -23,7 +35,13 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push SVGs to the output branch
+      - name: Collect cards
+        run: |
+          mkdir -p dist/cards
+          cp -r profile-summary-card-output/github profile-summary-card-output/github_dark dist/cards/
+          ls -R dist
+
+      - name: Push assets to the output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
