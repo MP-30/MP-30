@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:E2E8F0,100:CBD5E1&height=220&text=Aditya%20Bhadauriya&fontColor=0F172A&fontSize=48&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Platform%20Engineering&descColor=475569&descAlignY=55" alt="Aditya Bhadauriya"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=240&text=Aditya%20Bhadauriya&fontColor=F8FAFC&fontSize=52&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Platform%20Engineering&descColor=CBD5E1&descSize=18&descAlignY=56" alt="Aditya Bhadauriya"/>
 </p>
 
 <p align="center">
@@ -15,38 +15,71 @@
 </p>
 
 <p align="center">
-  <b>Linux · Docker · Kubernetes · AWS · CI/CD · Python · Terraform · RAG</b>
-</p>
-
-<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:334155,100:475569" alt=""/>
 </p>
 
 ## 👋 About Me
 
-I'm **Aditya Bhadauriya**, a Software Engineer with **3+ years of professional experience** building and operating scalable, reliable, production-ready applications.
+I'm **Aditya Bhadauriya**, a Software Engineer with **3+ years of professional experience** building and operating scalable, reliable, production-ready applications. I enjoy designing deployment platforms, automating operational workflows and making infrastructure boringly reliable.
 
-My work centres on **Kubernetes, Docker, Linux, CI/CD, AWS, Terraform, observability and Python automation**. I enjoy designing deployment platforms, automating operational workflows, improving infrastructure reliability and solving engineering problems across modern cloud-native environments.
+```yaml
+apiVersion: engineer/v1
+kind: Profile
+metadata:
+  name: aditya-bhadauriya
+  labels:
+    role: software-engineer
+    focus: platform-engineering
+spec:
+  experience: "3+ years"
+  expertise:
+    - Kubernetes & container orchestration
+    - CI/CD pipelines (Jenkins, GitHub Actions)
+    - AWS cloud infrastructure
+    - Infrastructure as Code (Terraform)
+    - Monitoring & observability
+    - DevSecOps
+    - Linux system administration
+    - Python automation
+  learning:
+    - Platform Engineering
+    - Distributed Systems
+    - Cloud Architecture
+  building: AIOps tooling with RAG
+```
 
-I'm currently going deeper into **Platform Engineering**, **Distributed Systems**, **Infrastructure as Code**, **Cloud Architecture** and **Observability**, and building production-style projects that reflect real-world engineering practice.
-
-## 🧭 Core Expertise
-
-| | |
-|---|---|
-| ☸️ Kubernetes & container orchestration | 🐳 Docker & containerization |
-| 🔁 CI/CD pipelines (Jenkins & GitHub Actions) | ☁️ AWS cloud infrastructure |
-| 🏗️ Infrastructure as Code (Terraform) | 📈 Monitoring & observability |
-| 🛡️ DevSecOps | 🐧 Linux system administration |
-| 🐍 Python automation | 🚀 Production deployments |
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:334155,100:475569" alt=""/>
+</p>
 
 ## 🚀 Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| ☸️ **[Hyper Scale Ops](https://github.com/MP-30/hyper-scale-ops)** | End-to-end Python application, containerized and shipped through Jenkins and GitHub Actions to Kubernetes | FastAPI · SQLAlchemy · Docker · Helm · AWS |
-| 📦 **[Hyper Scale Ops Helm Charts](https://github.com/MP-30/hyper-scale-ops-k8s)** | Helm chart repository used to deploy Hyper Scale Ops onto Kubernetes clusters | Helm · Kubernetes |
-| ⚙️ **[AI-assisted Linux Debugging](https://github.com/MP-30/AI-assisted-Linux-debugging)** | FastAPI service and CLI that snapshots a Linux host's health and uses runbook retrieval with a local LLM to suggest root causes and fixes | Python · FastAPI · ChromaDB · LLM |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>☸️ <a href="https://github.com/MP-30/hyper-scale-ops">Hyper Scale Ops</a></h3>
+      <p>End-to-end Python application, containerized and shipped through Jenkins and GitHub Actions to Kubernetes.</p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📦 <a href="https://github.com/MP-30/hyper-scale-ops-k8s">Hyper Scale Ops Helm Charts</a></h3>
+      <p>Helm chart repository used to deploy Hyper Scale Ops onto Kubernetes clusters.</p>
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ <a href="https://github.com/MP-30/AI-assisted-Linux-debugging">AI-assisted Linux Debugging</a></h3>
+      <p>FastAPI service and CLI that snapshots a Linux host's health and uses runbook retrieval with a local LLM to suggest root causes and fixes.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB"/>
+      <img src="https://img.shields.io/badge/RAG-0F172A?style=flat-square" alt="RAG"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://dev.adityalive.tech/"><img src="https://img.shields.io/badge/🚀_Live_Application-430098?style=for-the-badge" alt="Live application"/></a>
@@ -61,9 +94,12 @@ I'm currently going deeper into **Platform Engineering**, **Distributed Systems*
 
 <div align="center">
 
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux&perline=7" alt="DevOps and cloud tools"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux&perline=7&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux&perline=7&theme=light" alt="AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Linux"/>
+</picture>
 
 <br/><br/>
 
@@ -76,19 +112,25 @@ I'm currently going deeper into **Platform Engineering**, **Distributed Systems*
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge" alt="Trivy"/>
 
-### Software Engineering
+### 💻 Software Engineering
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,bash&perline=6" alt="Software engineering tools"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,bash&perline=6&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,bash&perline=6&theme=light" alt="Python, FastAPI, Django, PostgreSQL, Redis, Bash"/>
+</picture>
 
-### AI & LLM
+### 🤖 AI & LLM
 
 <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge" alt="RAG"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB"/>
 <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic AI"/>
 
-### Tools
+### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm&perline=5" alt="Developer tools"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm&perline=5&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm&perline=5&theme=light" alt="Git, GitHub, VS Code, Postman, PyCharm"/>
+</picture>
 
 </div>
 
@@ -128,6 +170,13 @@ I'm currently going deeper into **Platform Engineering**, **Distributed Systems*
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MP-30/MP-30/output/github-snake-dark.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/MP-30/MP-30/output/github-snake.svg" alt="Contribution snake animation"/>
+  </picture>
+</p>
+
+<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:334155,100:475569" alt=""/>
 </p>
 
@@ -142,5 +191,5 @@ I'm currently going deeper into **Platform Engineering**, **Distributed Systems*
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CBD5E1,50:E2E8F0,100:F8FAFC&height=100&section=footer" alt=""/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer" alt=""/>
 </p>
