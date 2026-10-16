@@ -32,13 +32,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#7f1d1d&color_dots=#ebedf0,#f6d5cc,#e8a08a,#c8553d,#7f1d1d
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#f4a582&color_dots=#161b22,#4c1d1d,#7f2a20,#b4472f,#e07a5f
 
       - name: Collect cards
         run: |
           mkdir -p dist/cards
-          cp -r profile-summary-card-output/github profile-summary-card-output/github_dark dist/cards/
+          cp -r profile-summary-card-output/moltack profile-summary-card-output/kacho_ga dist/cards/
           ls -R dist
 
       - name: Push assets to the output branch

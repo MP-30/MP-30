@@ -1,23 +1,23 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3A1E3A8A%2C50%3A2563EB%2C100%3A0EA5E9&fontColor=F8FAFC&descColor=BAE6FD&text=Aditya%20Bhadauriya&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Platform%20Engineering&descSize=18&descAlignY=55&animation=fadeIn"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3ABAE6FD%2C50%3A93C5FD%2C100%3AA5B4FC&fontColor=0F172A&descColor=1E3A8A&text=Aditya%20Bhadauriya&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Platform%20Engineering&descSize=18&descAlignY=55&animation=fadeIn" alt="Aditya Bhadauriya — Software Engineer | DevOps | Platform Engineering"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3A991B1B%2C50%3AB4472F%2C100%3AD9775C&fontColor=FFFFFF&descColor=FDE2DA&text=Aditya%20Bhadauriya&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Platform%20Engineering&descSize=18&descAlignY=55&animation=fadeIn"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3A7F1D1D%2C50%3A9B2C2C%2C100%3AB4472F&fontColor=FFFFFF&descColor=FFFFFF&text=Aditya%20Bhadauriya&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Platform%20Engineering&descSize=18&descAlignY=55&animation=fadeIn" alt="Aditya Bhadauriya — Software Engineer | DevOps | Platform Engineering"/>
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=620&lines=Building+reliable+cloud-native+infrastructure;Automating+deployments+end+to+end;Kubernetes+%C2%B7+AWS+%C2%B7+Terraform+%C2%B7+CI%2FCD;Exploring+AIOps+and+RAG" alt="Building reliable cloud-native infrastructure"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C8553D&center=true&vCenter=true&width=620&lines=Building+reliable+cloud-native+infrastructure;Automating+deployments+end+to+end;Kubernetes+%C2%B7+AWS+%C2%B7+Terraform+%C2%B7+CI%2FCD;Exploring+AIOps+and+RAG" alt="Building reliable cloud-native infrastructure"/>
 </p>
 
 <p align="center">
-  <a href="https://adityalive.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-0369A1?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://adityalive.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-9B2C2C?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/aditya-bhadauriya-99bb8a86/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:adityabhadauriya93@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://adityalive.tech/assets/resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-1E3A8A?style=for-the-badge" alt="Resume"/></a>
-  <img src="https://komarev.com/ghpvc/?username=MP-30&label=Profile%20Views&color=0F172A&style=for-the-badge" alt="Profile views"/>
+  <a href="https://adityalive.tech/assets/resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-7F1D1D?style=for-the-badge" alt="Resume"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MP-30&label=Profile%20Views&color=7F1D1D&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1E3A8A,100:0369A1" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
 
 ## 👋 About Me
 
@@ -49,7 +49,7 @@ spec:
   building: AIOps tooling with RAG
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1E3A8A,100:0369A1" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
 
 ## 🚀 Featured Projects
 
@@ -85,7 +85,7 @@ spec:
   <a href="https://p.us5.datadoghq.com/sb/8e9bd3b1-7001-11f1-aae3-c2753782a27a-994485ddc16ff7de20d382368a9bf932"><img src="https://img.shields.io/badge/Datadog_Dashboard-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Live Datadog dashboard"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1E3A8A,100:0369A1" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
 
 ## 🛠️ Tech Stack
 
@@ -134,43 +134,43 @@ spec:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1E3A8A,100:0369A1" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
 
 ## 📊 GitHub Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/github_dark/0-profile-details.svg"/>
-    <img width="82%" src="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/github/0-profile-details.svg" alt="Contribution history"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/kacho_ga/0-profile-details.svg"/>
+    <img width="82%" src="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/moltack/0-profile-details.svg" alt="Contribution history"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/github_dark/1-repos-per-language.svg"/>
-    <img width="40%" src="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/github/1-repos-per-language.svg" alt="Top languages by repo"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/kacho_ga/1-repos-per-language.svg"/>
+    <img width="40%" src="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/moltack/1-repos-per-language.svg" alt="Top languages by repo"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/github_dark/2-most-commit-language.svg"/>
-    <img width="40%" src="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/github/2-most-commit-language.svg" alt="Top languages by commit"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/github_dark/3-stats.svg"/>
-    <img width="40%" src="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/github/3-stats.svg" alt="GitHub stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/github_dark/4-productive-time.svg"/>
-    <img width="40%" src="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/github/4-productive-time.svg" alt="Commits by hour of day"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/kacho_ga/2-most-commit-language.svg"/>
+    <img width="40%" src="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/moltack/2-most-commit-language.svg" alt="Top languages by commit"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=MP-30&theme=dark&hide_border=true&ring=0284C7&fire=0284C7&currStreakLabel=0284C7"/>
-    <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=MP-30&theme=default&hide_border=true&ring=0369A1&fire=0369A1&currStreakLabel=0369A1" alt="GitHub streak"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/kacho_ga/3-stats.svg"/>
+    <img width="40%" src="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/moltack/3-stats.svg" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/kacho_ga/4-productive-time.svg"/>
+    <img width="40%" src="https://raw.githubusercontent.com/MP-30/MP-30/output/cards/moltack/4-productive-time.svg" alt="Commits by hour of day"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=MP-30&theme=dark&hide_border=true&ring=D9775C&fire=D9775C&currStreakLabel=D9775C"/>
+    <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=MP-30&theme=default&hide_border=true&ring=B4472F&fire=B4472F&currStreakLabel=B4472F" alt="GitHub streak"/>
   </picture>
 </p>
 
@@ -181,12 +181,12 @@ spec:
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1E3A8A,100:0369A1" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://adityalive.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-0369A1?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://adityalive.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-9B2C2C?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://github.com/MP-30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/aditya-bhadauriya-99bb8a86/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:adityabhadauriya93@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -195,7 +195,7 @@ spec:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0%3A0EA5E9%2C50%3A2563EB%2C100%3A1E3A8A"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0%3AA5B4FC%2C50%3A93C5FD%2C100%3ABAE6FD" alt=""/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0%3AD9775C%2C50%3AB4472F%2C100%3A991B1B"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0%3AB4472F%2C50%3A9B2C2C%2C100%3A7F1D1D" alt=""/>
   </picture>
 </p>
