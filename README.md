@@ -46,7 +46,7 @@ spec:
     - Platform Engineering
     - Distributed Systems
     - Cloud Architecture
-  building: AIOps tooling with RAG
+  building: AIOps tooling with RAG, Pydantic AI
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
