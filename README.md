@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3A991B1B%2C50%3AB4472F%2C100%3AD9775C&fontColor=FFFFFF&descColor=FDE2DA&text=Aditya%20Bhadauriya&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Platform%20Engineering&descSize=18&descAlignY=55&animation=fadeIn"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3A7F1D1D%2C50%3A9B2C2C%2C100%3AB4472F&fontColor=FFFFFF&descColor=FFFFFF&text=Aditya%20Bhadauriya&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Platform%20Engineering&descSize=18&descAlignY=55&animation=fadeIn" alt="Aditya Bhadauriya — Software Engineer | DevOps | Platform Engineering"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3A7F1D1D%2C50%3A9B2C2C%2C100%3AB4472F&fontColor=FFFFFF&descColor=FFFFFF&text=Aditya%20Bhadauriya&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Platform%20Engineering&descSize=18&descAlignY=55&animation=fadeIn" alt="Aditya Bhadauriya — Software Engineer | Backend Developer | Platform Engineering"/>
   </picture>
 </p>
 
