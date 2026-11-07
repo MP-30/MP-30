@@ -19,7 +19,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
 
-## 👋 About Me
+## About Me
 
 I'm **Aditya Bhadauriya**, a Software Engineer with **3+ years of professional experience** building and operating scalable, reliable, production-ready applications. I enjoy designing deployment platforms, automating operational workflows and making infrastructure boringly reliable.
 
@@ -51,12 +51,12 @@ spec:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>☸️ <a href="https://github.com/MP-30/hyper-scale-ops">Hyper Scale Ops</a></h3>
+      <h3> <a href="https://github.com/MP-30/hyper-scale-ops">Hyper Scale Ops</a></h3>
       <p>End-to-end Python application, containerized and shipped through Jenkins and GitHub Actions to Kubernetes.</p>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -64,13 +64,13 @@ spec:
       <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS"/>
     </td>
     <td width="33%" valign="top">
-      <h3>📦 <a href="https://github.com/MP-30/hyper-scale-ops-k8s">Hyper Scale Ops Helm Charts</a></h3>
+      <h3> <a href="https://github.com/MP-30/hyper-scale-ops-k8s">Hyper Scale Ops Helm Charts</a></h3>
       <p>Helm chart repository used to deploy Hyper Scale Ops onto Kubernetes clusters.</p>
       <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
     </td>
     <td width="33%" valign="top">
-      <h3>⚙️ <a href="https://github.com/MP-30/AI-assisted-Linux-debugging">AI-assisted Linux Debugging</a></h3>
+      <h3> <a href="https://github.com/MP-30/AI-assisted-Linux-debugging">AI-assisted Linux Debugging</a></h3>
       <p>FastAPI service and CLI that snapshots a Linux host's health and uses runbook retrieval with a local LLM to suggest root causes and fixes.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -87,11 +87,11 @@ spec:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cdocker%2Ckubernetes%2Cterraform%2Cjenkins%2Cgithubactions%2Clinux&perline=7&theme=dark"/>
@@ -104,7 +104,7 @@ spec:
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge" alt="Trivy"/>
 </p>
 
-### 📈 Observability
+###  Observability
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
@@ -112,20 +112,20 @@ spec:
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
 <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic"/>
 
-### 💻 Software Engineering
+###  Software Engineering
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Cdjango%2Cpostgres%2Credis%2Cbash&perline=6&theme=dark"/>
   <img src="https://skillicons.dev/icons?i=python%2Cfastapi%2Cdjango%2Cpostgres%2Credis%2Cbash&perline=6&theme=light" alt="Python, FastAPI, Django, PostgreSQL, Redis, Bash"/>
 </picture>
 
-### 🤖 AI & LLM
+###  AI & LLM
 
 <img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" alt="RAG"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB"/>
 <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic AI"/>
 
-### 🧰 Tools
+###  Tools
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Cpostman%2Cpycharm&perline=5&theme=dark"/>
@@ -136,7 +136,7 @@ spec:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <picture>
@@ -183,7 +183,7 @@ spec:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://adityalive.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-9B2C2C?style=for-the-badge" alt="Portfolio"/></a>
