@@ -13,7 +13,7 @@
   <a href="https://adityalive.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-9B2C2C?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/aditya-bhadauriya-99bb8a86/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:adityabhadauriya93@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://adityalive.tech/assets/resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-7F1D1D?style=for-the-badge" alt="Resume"/></a>
+  <a href="https://adityalive.tech/assets/aditya_python_ai.pdf"><img src="https://img.shields.io/badge/📄_Resume-7F1D1D?style=for-the-badge" alt="Resume"/></a>
   <img src="https://komarev.com/ghpvc/?username=MP-30&label=Profile%20Views&color=7F1D1D&style=for-the-badge" alt="Profile views"/>
 </p>
 
