@@ -1,23 +1,23 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3A991B1B%2C50%3AB4472F%2C100%3AD9775C&fontColor=FFFFFF&descColor=FDE2DA&text=Aditya%20Bhadauriya&fontSize=50&fontAlignY=35&desc=Python%20AI%20and%20Backend%20Engineer%20%7C%20RAG%20%7C%20Platform%20Engineering&descSize=18&descAlignY=55&animation=fadeIn"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3A7F1D1D%2C50%3A9B2C2C%2C100%3AB4472F&fontColor=FFFFFF&descColor=FFFFFF&text=Aditya%20Bhadauriya&fontSize=50&fontAlignY=35&desc=Python%20AI%20and%20Backend%20Engineer%20%7C%20RAG%20%7C%20Platform%20Engineering&descSize=18&descAlignY=55&animation=fadeIn" alt="Aditya Bhadauriya — Python AI & Backend Engineer | RAG | Platform Engineering"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3A166534%2C50%3A65A30D%2C100%3ACA8A04&fontColor=FFFFFF&descColor=FEF9C3&text=Aditya%20Bhadauriya&fontSize=50&fontAlignY=35&desc=Python%20AI%20and%20Backend%20Engineer%20%7C%20RAG%20%7C%20Platform%20Engineering&descSize=18&descAlignY=55&animation=fadeIn"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0%3A14532D%2C50%3A3F7D1A%2C100%3AB58A0B&fontColor=FFFFFF&descColor=FFFFFF&text=Aditya%20Bhadauriya&fontSize=50&fontAlignY=35&desc=Python%20AI%20and%20Backend%20Engineer%20%7C%20RAG%20%7C%20Platform%20Engineering&descSize=18&descAlignY=55&animation=fadeIn" alt="Aditya Bhadauriya — Python AI & Backend Engineer | RAG | Platform Engineering"/>
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C8553D&center=true&vCenter=true&width=700&lines=Building+and+evaluating+production+RAG+systems;Agents+%C2%B7+MCP+%C2%B7+AWS+Bedrock+%C2%B7+pgvector;FastAPI+%C2%B7+Django+%C2%B7+Terraform+%C2%B7+CI%2FCD;Shipping+reliable+cloud-native+infrastructure" alt="Building and evaluating production RAG systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=84CC16&center=true&vCenter=true&width=700&lines=Building+and+evaluating+production+RAG+systems;Agents+%C2%B7+MCP+%C2%B7+AWS+Bedrock+%C2%B7+pgvector;FastAPI+%C2%B7+Django+%C2%B7+Terraform+%C2%B7+CI%2FCD;Shipping+reliable+cloud-native+infrastructure" alt="Building and evaluating production RAG systems"/>
 </p>
 
 <p align="center">
-  <a href="https://adityalive.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-9B2C2C?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://adityalive.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-3F7D1A?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/aditya-bhadauriya-99bb8a86/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:adityabhadauriya93@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://adityalive.tech/assets/aditya_python_ai.pdf"><img src="https://img.shields.io/badge/📄_Resume-7F1D1D?style=for-the-badge" alt="Resume"/></a>
-  <img src="https://komarev.com/ghpvc/?username=MP-30&label=Profile%20Views&color=7F1D1D&style=for-the-badge" alt="Profile views"/>
+  <a href="https://adityalive.tech/assets/aditya_python_ai.pdf"><img src="https://img.shields.io/badge/📄_Resume-CA8A04?style=for-the-badge" alt="Resume"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MP-30&label=Profile%20Views&color=14532D&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:15803D,100:EAB308" alt=""/>
 
 ## About Me
 
@@ -49,7 +49,7 @@ spec:
   building: Academic Intelligence Platform (RAG + MCP on AWS)
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:15803D,100:EAB308" alt=""/>
 
 ## Featured Projects
 
@@ -105,7 +105,7 @@ spec:
 </table>
 
 <p align="center">
-  <a href="https://ai.adityalive.tech"><img src="https://img.shields.io/badge/🚀_Live:_Academic_Intelligence_Platform-9B2C2C?style=for-the-badge" alt="Live Academic Intelligence Platform"/></a>
+  <a href="https://ai.adityalive.tech"><img src="https://img.shields.io/badge/🚀_Live:_Academic_Intelligence_Platform-3F7D1A?style=for-the-badge" alt="Live Academic Intelligence Platform"/></a>
   <a href="https://dev.adityalive.tech/"><img src="https://img.shields.io/badge/🚀_Live:_Hyper_Scale_Ops-430098?style=for-the-badge" alt="Live Hyper Scale Ops"/></a>
   <a href="https://p.us5.datadoghq.com/sb/8e9bd3b1-7001-11f1-aae3-c2753782a27a-994485ddc16ff7de20d382368a9bf932"><img src="https://img.shields.io/badge/Datadog_Dashboard-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Live Datadog dashboard"/></a>
 </p>
@@ -118,7 +118,7 @@ spec:
 - **Async ingestion:** S3 → SQS → ECS Fargate worker with retries and a dead-letter queue.
 - **Zero stored AWS credentials:** GitHub Actions deploys through OIDC (about 4 minutes including the health check).
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:15803D,100:EAB308" alt=""/>
 
 ## Tech Stack
 
@@ -178,7 +178,7 @@ spec:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:15803D,100:EAB308" alt=""/>
 
 ## GitHub Activity
 
@@ -213,8 +213,8 @@ spec:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=MP-30&theme=dark&hide_border=true&ring=D9775C&fire=D9775C&currStreakLabel=D9775C"/>
-    <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=MP-30&theme=default&hide_border=true&ring=B4472F&fire=B4472F&currStreakLabel=B4472F" alt="GitHub streak"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=MP-30&theme=dark&hide_border=true&ring=FACC15&fire=FACC15&currStreakLabel=FACC15"/>
+    <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=MP-30&theme=default&hide_border=true&ring=3F7D1A&fire=CA8A04&currStreakLabel=3F7D1A" alt="GitHub streak"/>
   </picture>
 </p>
 
@@ -225,12 +225,12 @@ spec:
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7F1D1D,100:C8553D" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:15803D,100:EAB308" alt=""/>
 
 ## Let's Connect
 
 <p align="center">
-  <a href="https://adityalive.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-9B2C2C?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://adityalive.tech/"><img src="https://img.shields.io/badge/🌐_Portfolio-3F7D1A?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://github.com/MP-30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/aditya-bhadauriya-99bb8a86/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:adityabhadauriya93@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -239,7 +239,7 @@ spec:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0%3AD9775C%2C50%3AB4472F%2C100%3A991B1B"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0%3AB4472F%2C50%3A9B2C2C%2C100%3A7F1D1D" alt=""/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0%3ACA8A04%2C50%3A65A30D%2C100%3A166534"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0%3AB58A0B%2C50%3A3F7D1A%2C100%3A14532D" alt=""/>
   </picture>
 </p>
