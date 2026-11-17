@@ -32,14 +32,42 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#7f1d1d&color_dots=#ebedf0,#f6d5cc,#e8a08a,#c8553d,#7f1d1d
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#f4a582&color_dots=#161b22,#4c1d1d,#7f2a20,#b4472f,#e07a5f
+            dist/github-snake.svg?color_snake=#14532d&color_dots=#ebedf0,#fef08a,#bef264,#65a30d,#14532d
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#facc15&color_dots=#161b22,#14532d,#3f7d1a,#84cc16,#facc15
 
       - name: Collect cards
         run: |
           mkdir -p dist/cards
           cp -r profile-summary-card-output/moltack profile-summary-card-output/kacho_ga dist/cards/
           ls -R dist
+
+      - name: Recolor cards to green-to-yellow
+        run: |
+          python3 - <<'PY'
+          import colorsys, glob, re
+
+          # Remap each colour's hue onto a green (135 deg) -> yellow (50 deg) range.
+          # Lightness and saturation are kept, so contrast and layout stay the same.
+          # Near-neutral colours (backgrounds, greys, text) are left untouched.
+          HEX = re.compile(r"#([0-9a-fA-F]{6})\b")
+
+          def remap(m):
+              r, g, b = (int(m.group(1)[i:i + 2], 16) / 255 for i in (0, 2, 4))
+              h, l, s = colorsys.rgb_to_hls(r, g, b)
+              if s < 0.12 or l < 0.12 or l > 0.95:
+                  return m.group(0)
+              new_h = (135 - h * 85) / 360
+              nr, ng, nb = colorsys.hls_to_rgb(new_h, l, max(s, 0.55))
+              return "#{:02x}{:02x}{:02x}".format(round(nr * 255), round(ng * 255), round(nb * 255))
+
+          files = glob.glob("dist/cards/*/*.svg")
+          for path in files:
+              with open(path, encoding="utf-8") as f:
+                  svg = f.read()
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(HEX.sub(remap, svg))
+          print(f"Recolored {len(files)} card(s)")
+          PY
 
       - name: Push assets to the output branch
         uses: crazy-max/ghaction-github-pages@v5
