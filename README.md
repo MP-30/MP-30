@@ -81,6 +81,16 @@ spec:
     </td>
   </tr>
   <tr>
+    <td colspan="3" valign="top">
+      <h3><a href="https://github.com/MP-30/Claim-Sense">ClaimSense</a></h3>
+      <p>Motor insurance claims review with LangGraph and PostgreSQL. It reads claim PDFs, retrieves policy clauses and calculates payouts in Python. An adjuster can resume a claim in Streamlit after an API restart. In a live evaluation, it routed 19 of 20 synthetic claims correctly and matched all 14 labelled payouts within ₹1.</p>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"/>
+    </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/MP-30/hyper-scale-ops">Hyper Scale Ops</a></h3>
       <p>End-to-end Python application, containerized and shipped through Jenkins and GitHub Actions to Kubernetes with Datadog monitoring.</p>
