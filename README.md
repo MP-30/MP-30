@@ -83,11 +83,13 @@ spec:
   <tr>
     <td colspan="3" valign="top">
       <h3><a href="https://github.com/MP-30/Claim-Sense">ClaimSense</a></h3>
-      <p>Motor insurance claims review with LangGraph and PostgreSQL. It reads claim PDFs, retrieves policy clauses and calculates payouts in Python. An adjuster can resume a claim in Streamlit after an API restart. In a live evaluation, it routed 19 of 20 synthetic claims correctly and matched all 14 labelled payouts within ₹1.</p>
+      <p>Motor insurance claims review with LangGraph and FastAPI. It extracts data from claim PDFs, retrieves policy clauses and calculates payouts in Python. It routed 19 of 20 synthetic claims correctly and matched all 14 labelled payouts within ₹1. <a href="https://github.com/MP-30/Claim-Sense/blob/main/evals/scorecards/2026-11-23.md">Evaluation scorecard</a></p>
+      <p>Terraform provisions ECS, RDS for PostgreSQL 18, and Cognito on LocalStack Pro. Cognito protects the Streamlit portal and claim API. A pending claim kept its PDFs and LangGraph checkpoint after ECS task replacement, then completed adjuster review. <a href="https://github.com/MP-30/Claim-Sense-Terraform">Infrastructure repository</a></p>
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
     </td>
   </tr>
   <tr>
